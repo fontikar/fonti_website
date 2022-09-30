@@ -1,19 +1,16 @@
 ---
 categories:
-- Example Category
-date: 2022-03-06 00:00:00+0000
-description: Welcome to Hugo Theme Stack
-image: cover.jpg
-slug: hello-world
+- about me
+date: 2022-09-30 
+description: first post woohoo
+image: cover_fonti.jpg
+slug: first-post
 tags:
-- Example Tag
-title: Hello World
+- I learned something
+title: i made this website!
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+I have been procrastinating for a while building my website. 
+So here is my first crack! It doesn't need to be perfect, it just needs to work! This is made with blogdown with the theme [hugo-stack](https://github.com/CaiJimmy/hugo-theme-stack-starter)
 
-For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
-
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+> Photo of me luring some fish at Julian Rocks by [Adeline](https://www.instagram.com/adelineastrocean/) 
