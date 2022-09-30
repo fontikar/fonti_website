@@ -15,7 +15,9 @@ knitr::opts_chunk$set(collapse = TRUE)
 - Put things in `content/`
 - Never move directories with `themes/`
 - Put icons in .svg format in `themes/../asset/icons`
+- Put img in .svg format in `themes/../asset/img`
 - If .Rmds not knitting, delete `.Rmd.lock~` file
+- Profile pic/emoji edit path in `config/_default/params.toml`
 
 ```{r eval = FALSE}
 blogdown::check_site() # is your friend

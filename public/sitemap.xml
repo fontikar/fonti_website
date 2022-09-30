@@ -8,6 +8,9 @@
     <loc>https://itsmontywithaf.netlify.app/categories/about-me/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://itsmontywithaf.netlify.app/tags/blogdown/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://itsmontywithaf.netlify.app/categories/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,7 +23,16 @@
     <loc>https://itsmontywithaf.netlify.app/post/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://itsmontywithaf.netlify.app/tags/r-markdown/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://itsmontywithaf.netlify.app/tags/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itsmontywithaf.netlify.app/p/this-is-for-future-me/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itsmontywithaf.netlify.app/categories/website/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://itsmontywithaf.netlify.app/archives/</loc>
@@ -30,13 +42,5 @@
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://itsmontywithaf.netlify.app/about-me/</loc>
-  </url><url>
-    <loc>https://itsmontywithaf.netlify.app/tags/blogdown/</loc>
-  </url><url>
-    <loc>https://itsmontywithaf.netlify.app/tags/r-markdown/</loc>
-  </url><url>
-    <loc>https://itsmontywithaf.netlify.app/p/this-is-for-future-me/</loc>
-  </url><url>
-    <loc>https://itsmontywithaf.netlify.app/categories/website/</loc>
   </url>
 </urlset>

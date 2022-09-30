@@ -1,7 +1,7 @@
 baseurl: https://itsmontywithaf.netlify.app/
 languageCode: en-us
 paginate: 5
-title: Hi! I'm Fonti
+title: oh hellooo
 DefaultContentLanguage: en
 hasCJKLanguage: no
 disqusShortname: hugo-theme-stack
@@ -17,15 +17,8 @@ ignoreFiles:
   - _cache$
   - \.knit\.md$
   - \.utf8\.md$
+
 permalinks:
   post: /:year/:month/:day/:slug/
-menu:
-  main:
-    - name: About
-      url: /about/
-    - name: GitHub
-      url: https://github.com/fontikar
-    - name: Twitter
-      url: https://twitter.com/fonti_kar
-      
+
 
