@@ -1,7 +1,7 @@
 ---
 title: "this is for future me"
 author: "fonti kar"
-date: 2020-30-09
+date: 2022-09-30
 categories: ["website"]
 tags: ["R Markdown", "blogdown"]
 ---
@@ -14,9 +14,10 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 - Put things in `content/`
 - Never move directories with `themes/`
-- Put icons in .svg format in themes/../asset/icons
+- Put icons in .svg format in `themes/../asset/icons`
+- If .Rmds not knitting, delete `.Rmd.lock~` file
 
-```{r cars}
+```{r eval = FALSE}
 blogdown::check_site() # is your friend
 blogdown::build_site() # to render new posts
 blogdown::serve_site() # to preview, do this once per session
