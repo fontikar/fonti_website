@@ -1,0 +1,23 @@
+---
+title: "this is for future me"
+author: "fonti kar"
+date: 2020-30-09
+categories: ["website"]
+tags: ["R Markdown", "blogdown"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+## maintain this website
+
+- Put things in `content/`
+- Never move directories with `themes/`
+- Put icons in .svg format in themes/../asset/icons
+
+```{r cars}
+blogdown::check_site() # is your friend
+blogdown::build_site() # to render new posts
+blogdown::serve_site() # to preview, do this once per session
+```

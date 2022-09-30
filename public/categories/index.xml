@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Hi! I&#39;m Fonti</title>
-        <link>https://demo.stack.jimmycai.com/categories/</link>
+        <link>https://itsmontywithaf.netlify.app/categories/</link>
         <description>Recent content in Categories on Hi! I&#39;m Fonti</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Example Category</title>
-        <link>https://demo.stack.jimmycai.com/categories/example-category/</link>
-        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://itsmontywithaf.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>about me</title>
+        <link>https://itsmontywithaf.netlify.app/categories/about-me/</link>
+        <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/categories/example-category/</guid>
+        <guid>https://itsmontywithaf.netlify.app/categories/about-me/</guid>
         <description></description>
         </item>
         <item>
-        <title>R</title>
-        <link>https://demo.stack.jimmycai.com/categories/r/</link>
-        <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+        <title>website</title>
+        <link>https://itsmontywithaf.netlify.app/categories/website/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/categories/r/</guid>
+        <guid>https://itsmontywithaf.netlify.app/categories/website/</guid>
         <description></description>
         </item>
         

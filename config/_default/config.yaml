@@ -1,4 +1,4 @@
-baseurl: https://demo.stack.jimmycai.com
+baseurl: https://itsmontywithaf.netlify.app/
 languageCode: en-us
 paginate: 5
 title: Hi! I'm Fonti
@@ -27,3 +27,5 @@ menu:
       url: https://github.com/fontikar
     - name: Twitter
       url: https://twitter.com/fonti_kar
+      
+

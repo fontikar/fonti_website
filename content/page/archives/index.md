@@ -5,7 +5,7 @@ menu:
   main:
     params:
       icon: archives
-    weight: 2
+    weight: 3
 slug: archives
 title: Archives
 ---
